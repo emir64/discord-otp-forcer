@@ -1,0 +1,5 @@
+capsolver_python
+capmonster_python
+python-dotenv
+tls_client
+PyYAML

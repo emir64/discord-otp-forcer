@@ -1,0 +1,10 @@
+
+account:
+  email: ""
+  password: ""
+  code_type: "backup" # or 2fa
+
+captcha:
+  service: "capmonster.cloud" # or capsolver.com
+  api_key: "" # your captcha service api key
+  site_key: "f5561ba9-8f1e-40ca-9b5b-a0b3f719ef34" # dont change
